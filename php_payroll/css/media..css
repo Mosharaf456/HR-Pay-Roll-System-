@@ -1,0 +1,65 @@
+@media (max-width: 1199px){
+  .cus-align ul li img {
+    /* margin-left: 27px; */
+    /* margin: 0; */
+    display: block;
+}
+  /* 1st start dental part */
+.startdental{
+
+  padding-top: 17px;
+  padding-bottom: 7px;
+}
+
+.hg1{
+  margin-left: 1px;
+}
+.hg2{
+  margin-left: 20px;
+}
+  h6{
+  
+font-size: 10px;
+  
+padding-top: 0;
+  }
+  .custom-hg1 ul{
+  
+display: contents;
+  }
+
+  .custom-hg1 ul li h5{
+      
+font-size: 15px;
+  }
+  /* 1st End dental part */
+
+/* 10th start  footer part */
+.footer-part{
+  
+/* padding: 0; */
+  
+/* margin: 0; */
+}
+.footer-part span{
+  
+font-size: 11px;
+}
+.cftr{
+}
+.cftr p{
+ 
+font-size: 10px;
+ 
+text-align: center;
+}
+
+/* End footer part */
+.welcome img {
+  height: 28px;
+}
+
+}
+
+
+
